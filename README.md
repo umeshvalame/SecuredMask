@@ -58,4 +58,4 @@ The core library does not depend on Spring. A Spring Boot adapter can supply rol
 4. v1.0: security-reviewed stable API
 
 ## License
-Add an appropriate open-source license (e.g. Apache-2.0) before publication.
+-
